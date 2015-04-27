@@ -1,0 +1,19 @@
+{"images":[
+		{"image_id":"0",
+		 "image_name":"test.jpg",
+		 "labels":[
+			 {"label_name":"Insect","label_score":"0.687582"},
+			 {"label_name":"Zoo","label_score":"0.667396"},
+			 {"label_name":"Nature Scene","label_score":"0.665106"},
+			 {"label_name":"Animal","label_score":"0.643383"},
+			 {"label_name":"Arthropod","label_score":"0.640056"},
+			 {"label_name":"Mammal","label_score":"0.639389"},
+			 {"label_name":"Outdoors","label_score":"0.637282"},
+			 {"label_name":"Animal Sport","label_score":"0.61017"},
+			 {"label_name":"Field","label_score":"0.595733"},
+			 {"label_name":"Fabric","label_score":"0.58781"},
+			 {"label_name":"Object","label_score":"0.586865"},
+			 {"label_name":"Green","label_score":"0.586164"},
+			 {"label_name":"Club Sport","label_score":"0.540913"},
+			 {"label_name":"Sports","label_score":"0.537017"}]}]
+}
